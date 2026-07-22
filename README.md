@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0680-valid-palindrome-ii](https://github.com/Anishsingh83/LeetCode-Solutions/tree/master/0680-valid-palindrome-ii) |
+| [0696-count-binary-substrings](https://github.com/Anishsingh83/LeetCode-Solutions/tree/master/0696-count-binary-substrings) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Anishsingh83/LeetCode-Solutions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/Anishsingh83/LeetCode-Solutions/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Sliding Window
@@ -112,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0031-next-permutation](https://github.com/Anishsingh83/LeetCode-Solutions/tree/master/0031-next-permutation) |
 | [0680-valid-palindrome-ii](https://github.com/Anishsingh83/LeetCode-Solutions/tree/master/0680-valid-palindrome-ii) |
+| [0696-count-binary-substrings](https://github.com/Anishsingh83/LeetCode-Solutions/tree/master/0696-count-binary-substrings) |
 ## Greedy
 |  |
 | ------- |
