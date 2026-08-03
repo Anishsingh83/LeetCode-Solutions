@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/Anishsingh83/LeetCode-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [1301-number-of-paths-with-max-score](https://github.com/Anishsingh83/LeetCode-Solutions/tree/master/1301-number-of-paths-with-max-score) |
 | [1331-rank-transform-of-an-array](https://github.com/Anishsingh83/LeetCode-Solutions/tree/master/1331-rank-transform-of-an-array) |
+| [1406-stone-game-iii](https://github.com/Anishsingh83/LeetCode-Solutions/tree/master/1406-stone-game-iii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Anishsingh83/LeetCode-Solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Anishsingh83/LeetCode-Solutions/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Anishsingh83/LeetCode-Solutions/tree/master/3286-find-a-safe-walk-through-a-grid) |
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0486-predict-the-winner](https://github.com/Anishsingh83/LeetCode-Solutions/tree/master/0486-predict-the-winner) |
 | [1301-number-of-paths-with-max-score](https://github.com/Anishsingh83/LeetCode-Solutions/tree/master/1301-number-of-paths-with-max-score) |
+| [1406-stone-game-iii](https://github.com/Anishsingh83/LeetCode-Solutions/tree/master/1406-stone-game-iii) |
 | [3620-network-recovery-pathways](https://github.com/Anishsingh83/LeetCode-Solutions/tree/master/3620-network-recovery-pathways) |
 ## Topological Sort
 |  |
@@ -101,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/Anishsingh83/LeetCode-Solutions/tree/master/0069-sqrtx) |
 | [0486-predict-the-winner](https://github.com/Anishsingh83/LeetCode-Solutions/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Anishsingh83/LeetCode-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
+| [1406-stone-game-iii](https://github.com/Anishsingh83/LeetCode-Solutions/tree/master/1406-stone-game-iii) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Anishsingh83/LeetCode-Solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Anishsingh83/LeetCode-Solutions/tree/master/3312-sorted-gcd-pair-queries) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Anishsingh83/LeetCode-Solutions/tree/master/3513-number-of-unique-xor-triplets-i) |
@@ -184,4 +187,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/Anishsingh83/LeetCode-Solutions/tree/master/0486-predict-the-winner) |
+| [1406-stone-game-iii](https://github.com/Anishsingh83/LeetCode-Solutions/tree/master/1406-stone-game-iii) |
+## Minimax
+|  |
+| ------- |
+| [1406-stone-game-iii](https://github.com/Anishsingh83/LeetCode-Solutions/tree/master/1406-stone-game-iii) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [1406-stone-game-iii](https://github.com/Anishsingh83/LeetCode-Solutions/tree/master/1406-stone-game-iii) |
 <!---LeetCode Topics End-->
