@@ -8,7 +8,10 @@ class Solution:
 
         @lru_cache(None)
         def dp(i, m):
-            return 0 if i == n else max(
+            if i >= n:
+                return 0
+
+            return max(
                 suffix[i] - dp(i + x, max(m, x))
                 for x in range(1, min(2 * m, n - i) + 1)
             )
