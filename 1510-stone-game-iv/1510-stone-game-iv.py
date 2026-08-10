@@ -1,14 +1,19 @@
 class Solution:
     def winnerSquareGame(self, n: int) -> bool:
-        @lru_cache(None)
-        def dp(x):
-            if x == 0:
-                return False
+        dp = [False] * (n + 1)
 
-            for i in range(1, isqrt(x) + 1):
-                if not dp(x - i * i):
-                    return True
+        squares = []
+        i = 1
+        while i * i <= n:
+            squares.append(i * i)
+            i += 1
 
-            return False
+        for i in range(1, n + 1):
+            for sq in squares:
+                if sq > i:
+                    break
+                if not dp[i - sq]:
+                    dp[i] = True
+                    break
 
-        return dp(n)       
+        return dp[n]         
