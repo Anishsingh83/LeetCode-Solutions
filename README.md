@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/Anishsingh83/LeetCode-Solutions/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Anishsingh83/LeetCode-Solutions/tree/master/0032-longest-valid-parentheses) |
 | [0168-excel-sheet-column-title](https://github.com/Anishsingh83/LeetCode-Solutions/tree/master/0168-excel-sheet-column-title) |
+| [0301-remove-invalid-parentheses](https://github.com/Anishsingh83/LeetCode-Solutions/tree/master/0301-remove-invalid-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/Anishsingh83/LeetCode-Solutions/tree/master/0678-valid-parenthesis-string) |
 | [0680-valid-palindrome-ii](https://github.com/Anishsingh83/LeetCode-Solutions/tree/master/0680-valid-palindrome-ii) |
 | [0696-count-binary-substrings](https://github.com/Anishsingh83/LeetCode-Solutions/tree/master/0696-count-binary-substrings) |
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0112-path-sum](https://github.com/Anishsingh83/LeetCode-Solutions/tree/master/0112-path-sum) |
+| [0301-remove-invalid-parentheses](https://github.com/Anishsingh83/LeetCode-Solutions/tree/master/0301-remove-invalid-parentheses) |
 | [1096-brace-expansion-ii](https://github.com/Anishsingh83/LeetCode-Solutions/tree/master/1096-brace-expansion-ii) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Anishsingh83/LeetCode-Solutions/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Anishsingh83/LeetCode-Solutions/tree/master/2812-find-the-safest-path-in-a-grid) |
@@ -325,6 +327,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Anishsingh83/LeetCode-Solutions/tree/master/0022-generate-parentheses) |
+| [0301-remove-invalid-parentheses](https://github.com/Anishsingh83/LeetCode-Solutions/tree/master/0301-remove-invalid-parentheses) |
 | [1096-brace-expansion-ii](https://github.com/Anishsingh83/LeetCode-Solutions/tree/master/1096-brace-expansion-ii) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Anishsingh83/LeetCode-Solutions/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Nim Game
