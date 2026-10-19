@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/Anishsingh83/LeetCode-Solutions/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/Anishsingh83/LeetCode-Solutions/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Anishsingh83/LeetCode-Solutions/tree/master/0032-longest-valid-parentheses) |
+| [0068-text-justification](https://github.com/Anishsingh83/LeetCode-Solutions/tree/master/0068-text-justification) |
 | [0168-excel-sheet-column-title](https://github.com/Anishsingh83/LeetCode-Solutions/tree/master/0168-excel-sheet-column-title) |
 | [0301-remove-invalid-parentheses](https://github.com/Anishsingh83/LeetCode-Solutions/tree/master/0301-remove-invalid-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/Anishsingh83/LeetCode-Solutions/tree/master/0678-valid-parenthesis-string) |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0031-next-permutation](https://github.com/Anishsingh83/LeetCode-Solutions/tree/master/0031-next-permutation) |
+| [0068-text-justification](https://github.com/Anishsingh83/LeetCode-Solutions/tree/master/0068-text-justification) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Anishsingh83/LeetCode-Solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0455-assign-cookies](https://github.com/Anishsingh83/LeetCode-Solutions/tree/master/0455-assign-cookies) |
 | [0486-predict-the-winner](https://github.com/Anishsingh83/LeetCode-Solutions/tree/master/0486-predict-the-winner) |
@@ -391,6 +393,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0068-text-justification](https://github.com/Anishsingh83/LeetCode-Solutions/tree/master/0068-text-justification) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Anishsingh83/LeetCode-Solutions/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3498-reverse-degree-of-a-string](https://github.com/Anishsingh83/LeetCode-Solutions/tree/master/3498-reverse-degree-of-a-string) |
 ## Quicksort
