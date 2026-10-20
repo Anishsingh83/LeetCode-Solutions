@@ -107,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3718-smallest-missing-multiple-of-k](https://github.com/Anishsingh83/LeetCode-Solutions/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Anishsingh83/LeetCode-Solutions/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3731-find-missing-elements](https://github.com/Anishsingh83/LeetCode-Solutions/tree/master/3731-find-missing-elements) |
+| [3886-sum-of-sortable-integers](https://github.com/Anishsingh83/LeetCode-Solutions/tree/master/3886-sum-of-sortable-integers) |
 ## Binary Search
 |  |
 | ------- |
@@ -219,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/Anishsingh83/LeetCode-Solutions/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Anishsingh83/LeetCode-Solutions/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/Anishsingh83/LeetCode-Solutions/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
+| [3886-sum-of-sortable-integers](https://github.com/Anishsingh83/LeetCode-Solutions/tree/master/3886-sum-of-sortable-integers) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -288,12 +290,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/Anishsingh83/LeetCode-Solutions/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Anishsingh83/LeetCode-Solutions/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3731-find-missing-elements](https://github.com/Anishsingh83/LeetCode-Solutions/tree/master/3731-find-missing-elements) |
+| [3886-sum-of-sortable-integers](https://github.com/Anishsingh83/LeetCode-Solutions/tree/master/3886-sum-of-sortable-integers) |
 ## Enumeration
 |  |
 | ------- |
 | [1291-sequential-digits](https://github.com/Anishsingh83/LeetCode-Solutions/tree/master/1291-sequential-digits) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Anishsingh83/LeetCode-Solutions/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/Anishsingh83/LeetCode-Solutions/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
+| [3886-sum-of-sortable-integers](https://github.com/Anishsingh83/LeetCode-Solutions/tree/master/3886-sum-of-sortable-integers) |
 ## Number Theory
 |  |
 | ------- |
