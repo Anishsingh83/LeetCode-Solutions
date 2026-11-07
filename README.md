@@ -92,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Anishsingh83/LeetCode-Solutions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Anishsingh83/LeetCode-Solutions/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1872-stone-game-viii](https://github.com/Anishsingh83/LeetCode-Solutions/tree/master/1872-stone-game-viii) |
+| [1882-process-tasks-using-servers](https://github.com/Anishsingh83/LeetCode-Solutions/tree/master/1882-process-tasks-using-servers) |
 | [2029-stone-game-ix](https://github.com/Anishsingh83/LeetCode-Solutions/tree/master/2029-stone-game-ix) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Anishsingh83/LeetCode-Solutions/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Anishsingh83/LeetCode-Solutions/tree/master/2213-longest-substring-of-one-repeating-character) |
@@ -163,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Anishsingh83/LeetCode-Solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1882-process-tasks-using-servers](https://github.com/Anishsingh83/LeetCode-Solutions/tree/master/1882-process-tasks-using-servers) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Anishsingh83/LeetCode-Solutions/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Anishsingh83/LeetCode-Solutions/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Anishsingh83/LeetCode-Solutions/tree/master/3286-find-a-safe-walk-through-a-grid) |
